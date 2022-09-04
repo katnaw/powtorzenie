@@ -1,0 +1,29 @@
+1.	Co to są baza danych i system zarządzania bazą danych
+2.	Wymień najpopularniejsze systemy zarządzania bazą danych w architekturze klient-serwer
+3.	Jakie są cechy systemu baz danych
+4.	Jakie są nazwy modeli baz danych i czym się charakteryzują
+5.	Co to są: krotka, atrybut i encja
+6.	Jakie są zasady budowania tabel
+7.	Co to jest klucz tabeli
+8.	Jakie są rodzaje kluczy i czym się charakteryzują
+9.	Jaka jest rola klucza obcego
+10.	Co to jest relacja
+11.	Jakie są typy relacji i czym się charakteryzują
+12.	Co to jest normalizacja i jak przebiega jej proces
+13.	Jakie są nazwy postaci normalnych i czym się charakteryzują
+14.	Jakie są typy danych używane w bazach danych
+
+We wszystkich pytaniach o przykład zapytania odnieś się do pliku schemat.png
+
+
+15.	Jakie znasz typy danych w SQL – czego dotyczą i jakie mogą mieć cechy
+16.	Podaj przykład zapytania tworzącego bazę danych 
+17.	Podaj przykład zapytania usuwającego bazę danych
+18.	Podaj 2  przykłady zapytania modyfikującego tabelę
+19.	Podaj przykład zapytania z instrukcją insert
+20.	Podaj przykład zapytania z instrukcją update
+21.	Podaj przykład zapytania z instrukcją delete
+22.	Podaj 2 przykłady zapytania z instrukcją select
+23.	Podaj przykład zapytania z instrukcją distinct 
+24.	Podaj przykład zapytania na obliczanie wyrażeń w instrukcji select
+
